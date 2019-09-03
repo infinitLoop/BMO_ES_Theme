@@ -15,3 +15,10 @@ cd themes
  sudo git clone https://github.com/infinitLoop/BMO_ES_Theme BMO
  
  ```
+
+get latest updates
+```
+
+cd ~/.emulationstation/themes/BMO && sudo git pull
+
+```
