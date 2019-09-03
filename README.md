@@ -1,5 +1,9 @@
 # BMO_Emulationstation_Theme
 
+BMO from Adventure Time theme for Emulationstation, intended for Gameboy Zero and similar RetroPie handheld systems.
+
+Most faces were sourced from http://byobmo.com by Bob Herzberg
+
 ### Installation
 
 make a folder for custom themes and go there:
