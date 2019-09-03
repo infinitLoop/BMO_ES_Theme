@@ -16,6 +16,7 @@ cd themes
  
  ```
 
+### Update
 get latest updates
 ```
 
