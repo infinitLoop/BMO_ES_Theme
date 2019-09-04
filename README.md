@@ -19,6 +19,12 @@ cd themes
  sudo git clone https://github.com/infinitLoop/BMO_ES_Theme BMO
  
  ```
+update the permissions of the theme folder
+```
+
+sudo chmod -R 755 /etc/emulationstation/themes/BMO
+
+```
 
 ### Update
 get latest updates
