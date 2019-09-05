@@ -22,7 +22,7 @@ cd themes
 update the permissions of the theme folder
 ```
 
-sudo chmod -R 755 ~/.emulationstation/themes/BMO
+sudo chmod -R 777 ~/.emulationstation/themes/BMO
 
 ```
 
