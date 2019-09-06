@@ -24,7 +24,7 @@ based on:       "GBZ35" by RxBrad, Many BMO faces from byobmo.com
 			<text name="systemInfo">
 				<backgroundColor>599e8e</backgroundColor>
 				<color>000000</color>
-				<fontPath>./../../BMO/_inc/fonts/To_Japan.ttf</fontPath>
+				<fontPath>./_inc/fonts/To_Japan.ttf</fontPath>
 				<fontSize>0.04</fontSize>
                 <origin>0 -2.35</origin>
 			</text>
@@ -33,14 +33,14 @@ based on:       "GBZ35" by RxBrad, Many BMO faces from byobmo.com
 
     <view name="system, basic, detailed, video">
 		<image name="background_color" extra="true">
-			<path>./../../BMO/_inc/images/bg_color.png</path>
+			<path>./_inc/images/bg_color.png</path>
 			<origin>0 0</origin>
 			<pos>0 0</pos>
 			<size>1 1</size>
 			<color>599e8e</color>
 		</image>
 		<image name="background_pattern" extra="true">
-			<path>./../../BMO/_inc/images/bg_pattern.png</path>
+			<path>./_inc/images/bg_pattern.png</path>
 			<origin>0.5 0.5</origin>
 			<pos>0.5 0.5</pos>
 			<size>1 1</size>
@@ -48,7 +48,7 @@ based on:       "GBZ35" by RxBrad, Many BMO faces from byobmo.com
 			<tile>true</tile>
 		</image>
 		<image name="background_help" extra="true">
-			<path>./../../BMO/_inc/images/bg_color.png</path>
+			<path>./_inc/images/bg_color.png</path>
 			<origin>0 1</origin>
 			<pos>0 1</pos>
 			<size>1 0.070</size>
@@ -57,14 +57,14 @@ based on:       "GBZ35" by RxBrad, Many BMO faces from byobmo.com
 		<helpsystem name="help">
 			<textColor>000000</textColor>
 			<iconColor>000000</iconColor>
-			<fontPath>./../../BMO/_inc/fonts/To_Japan.ttf</fontPath>
+			<fontPath>./_inc/fonts/To_Japan.ttf</fontPath>
 			<fontSize>0.03</fontSize>
 		</helpsystem>
 	</view>
     
 	<view name="basic">
 		<image name="background_logo" extra="true">
-			<path>./../../BMO/_inc/images/bg_color.png</path>
+			<path>./_inc/images/bg_color.png</path>
 			<origin>0 0</origin>
 			<pos>0 0</pos>
 			<size>1 0.16</size>
@@ -76,7 +76,7 @@ based on:       "GBZ35" by RxBrad, Many BMO faces from byobmo.com
 			<maxSize>1 0.12</maxSize>
 		</image>
 		<image name="gamelist_background" extra="true">
-			<path>./../../BMO/_inc/images/bg_color.png</path>
+			<path>./_inc/images/bg_color.png</path>
 			<origin>0.5 0</origin>
 			<pos>0.5 0.18</pos>
 			<size>0.96 0.73</size>
@@ -87,7 +87,7 @@ based on:       "GBZ35" by RxBrad, Many BMO faces from byobmo.com
 			<selectedColor>FFFFFF</selectedColor>
 			<primaryColor>000000</primaryColor>
 			<secondaryColor>000066</secondaryColor>
-			<fontPath>./../../BMO/_inc/fonts/To_Japan.ttf</fontPath>
+			<fontPath>./_inc/fonts/To_Japan.ttf</fontPath>
 			<pos>0.03 0.19</pos>
 			<size>0.937 0.69</size>
 			<fontSize>0.04</fontSize>
@@ -135,7 +135,7 @@ based on:       "GBZ35" by RxBrad, Many BMO faces from byobmo.com
 
     <view name="detailed,video">
 	<image name="metadata_background" extra="true">
-		<path>./../../BMO/_inc/images/bg_color.png</path>
+		<path>./_inc/images/bg_color.png</path>
 		<origin>0 0</origin>
 		<pos>0.02 0.02</pos>
 		<size>0.35 0.89</size>
@@ -143,7 +143,7 @@ based on:       "GBZ35" by RxBrad, Many BMO faces from byobmo.com
 	</image>
 
 	<image name="gamelist_background" extra="true">
-		<path>./../../BMO/_inc/images/bg_color.png</path>
+		<path>./_inc/images/bg_color.png</path>
 		<origin>0 0</origin>
 		<pos>0.38 0.02</pos>
 		<size>0.60 0.89</size>
@@ -161,7 +161,7 @@ based on:       "GBZ35" by RxBrad, Many BMO faces from byobmo.com
 		<selectedColor>FFFFFF</selectedColor>
 		<primaryColor>000000</primaryColor>
 		<secondaryColor>000066</secondaryColor>
-		<fontPath>./../../BMO/_inc/fonts/To_Japan.ttf</fontPath>
+		<fontPath>./_inc/fonts/To_Japan.ttf</fontPath>
 		<pos>0.39 0.03</pos>
 		<size>0.577 0.86</size>
 		<fontSize>0.04</fontSize>
@@ -171,21 +171,21 @@ based on:       "GBZ35" by RxBrad, Many BMO faces from byobmo.com
 	
 	<image name="md_hidden">
 		<pos>0.085 0.275</pos>
-		<path>./../../BMO/_inc/images/hidden.png</path>
+		<path>./_inc/images/hidden.png</path>
 		<maxSize>0.06 0.06</maxSize>
 	<origin>0.5 1</origin>
 	
 	</image>
 		<image name="md_kidgame">
 		<pos>0.195 0.275</pos>
-		<path>./../../BMO/_inc/images/child.png</path>
+		<path>./_inc/images/child.png</path>
 		<maxSize>0.06 0.06</maxSize>
 		<origin>0.5 1</origin>
 	</image>
 	
 	<image name="md_favorite">
 		<pos>0.305 0.275</pos>
-		<path>./../../BMO/_inc/images/star.png</path>
+		<path>./_inc/images/star.png</path>
 		<maxSize>0.06 0.06</maxSize>
 		<origin>0.5 1</origin>
 	</image>
