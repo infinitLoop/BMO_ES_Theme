@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <gameList>
+      <game id="" source="">
+          <path>./Guardians Of Sunshine.sh</path>
+          <name>Guardians Of Sunshine</name>
+          <desc>Collect coins, explore dungeons, jumping cliffs and lava, avoid the bumblebee, and defeat the sweet bunny and the frog.</desc>
+          <image>./Guardians Of Sunshine.jpg</image>
+          <releasedate></releasedate>
+          <developer></developer>
+          <publisher></publisher>
+          <genre></genre>
+          <players>1</players>
+      </game>
+  </gameList>
