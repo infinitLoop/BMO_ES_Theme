@@ -26,6 +26,13 @@ sudo chmod -R 777 ~/.emulationstation/themes/BMO
 
 ```
 
+### Recommended EmulationStation UI Settings
+<ul>
+ <li>Carousel Transitions: <b>ON</b></li>
+ <li>Transition Style: <b>Instant</b></li>
+ <li>Gamelist View Style: <b>Automatic</b></li>
+</ul>
+
 ### Update
 get latest updates
 ```
